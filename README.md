@@ -50,4 +50,4 @@ This software is designed to manage employees, track client deliveries, and cont
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/employee-delivery-manager.git
+   git clone https://github.com/minach19/foodconserve-manager.git
